@@ -1,6 +1,6 @@
 # Godot-game
  ↑ ↓ → ← to move<br />
- z to do an melee AOE<br />
+ z to do a melee AOE<br />
  x to shoot a bullet<br />
  c to dash<br />
  All enemies die in one hit<br />
